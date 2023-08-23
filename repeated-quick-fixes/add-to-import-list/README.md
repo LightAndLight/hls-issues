@@ -13,7 +13,7 @@ Reproduction:
 1. `code .`
 1. Open `add-to-import-list.cabal`
 1. Open new file `src/B.hs` in another tab
-1. Paste <a href="#b-dot-hs">`B.hs`</a> into `src/B.hs`
+1. Paste [`B.hs`](#b-dot-hs) into `src/B.hs`
 1. Leave `src/B.hs` **unsaved**
 1. Add `B` to `exposed-modules` in `add-to-import-list.cabal`
 1. Save `add-to-import-list.cabal`
